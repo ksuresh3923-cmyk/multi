@@ -10,7 +10,7 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropou
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 # Set data path
-DATASET_PATH = 'E:\SRM\Project\Multi_disease_detection\MangoLeafBD Dataset'  # <-- Change to your dataset path
+DATASET_PATH = 'C:/Suresh/Multi_disease_detection 95% code/MangoLeafBD Dataset'  # <-- Change to your dataset path
 
 # Parameters
 IMAGE_SIZE = 128
